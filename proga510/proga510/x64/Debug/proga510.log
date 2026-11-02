@@ -1,0 +1,4 @@
+﻿  code510.cpp
+C:\Users\s26380334\source\repos\proga510\proga510\code510.cpp(10,8): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "char *"
+C:\Users\s26380334\source\repos\proga510\proga510\code510.cpp(12,9): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+  proga510.vcxproj -> C:\Users\s26380334\source\repos\proga510\x64\Debug\proga510.exe
